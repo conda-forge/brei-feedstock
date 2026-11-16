@@ -1,5 +1,5 @@
 context:
-  version: "0.2.4"
+  version: "0.3.1"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/b/brei/brei-${{ version }}.tar.gz
-  sha256: fb8a1f191a1c70a81a9df366c530e01938b8082e7198e898d4ea8eb53066fa92
+  sha256: d59674bce27d8d274cb8b8e37e4039f823cd2386a2f4fe945a4f35c430802511
 
 build:
   number: 0
